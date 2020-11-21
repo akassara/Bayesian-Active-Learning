@@ -1,0 +1,36 @@
+albumentations @ file:///home/conda/feedstock_root/build_artifacts/albumentations_1604348071087/work
+certifi==2020.11.8
+cloudpickle @ file:///home/conda/feedstock_root/build_artifacts/cloudpickle_1598400192773/work
+cycler==0.10.0
+cytoolz==0.11.0
+dask @ file:///home/conda/feedstock_root/build_artifacts/dask-core_1602029610262/work
+decorator==4.4.2
+imageio @ file:///home/conda/feedstock_root/build_artifacts/imageio_1594044661732/work
+imgaug==0.4.0
+joblib @ file:///tmp/build/80754af9/joblib_1601912903842/work
+kiwisolver @ file:///D:/bld/kiwisolver_1604322452227/work
+matplotlib @ file:///D:/bld/matplotlib-suite_1605180506412/work
+mkl-fft==1.2.0
+mkl-random==1.1.1
+mkl-service==2.3.0
+networkx @ file:///home/conda/feedstock_root/build_artifacts/networkx_1598210780226/work
+numpy @ file:///C:/ci/numpy_and_numpy_base_1603466732592/work
+olefile==0.46
+Pillow @ file:///C:/ci/pillow_1603823068645/work
+pyparsing==2.4.7
+python-dateutil==2.8.1
+PyWavelets @ file:///D:/bld/pywavelets_1602504737303/work
+PyYAML==5.3.1
+scikit-image==0.16.2
+scikit-learn @ file:///C:/ci/scikit-learn_1598377018496/work
+scipy @ file:///C:/bld/scipy_1604304921792/work
+Shapely==1.7.1
+six @ file:///C:/ci/six_1605187374963/work
+threadpoolctl @ file:///tmp/tmp9twdgx9k/threadpoolctl-2.1.0-py3-none-any.whl
+toolz @ file:///home/conda/feedstock_root/build_artifacts/toolz_1600973991856/work
+torch==1.7.0
+torchaudio==0.7.0
+torchvision==0.8.1
+tornado @ file:///D:/bld/tornado_1604105353952/work
+typing-extensions @ file:///tmp/build/80754af9/typing_extensions_1598376058250/work
+wincertstore==0.2
